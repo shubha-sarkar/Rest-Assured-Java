@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T13:49:06 IST" name="Default suite" finished-at="2024-06-05T13:49:07 IST" duration-ms="1145">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T13:49:06 IST" name="Default test" finished-at="2024-06-05T13:49:07 IST" duration-ms="1145">
+      <class name="org.sarkar.Rest_Assured_Java.SumValidation">
+        <test-method signature="sumOfCources()[pri:0, instance:org.sarkar.Rest_Assured_Java.SumValidation@5c90e579]" started-at="2024-06-05T13:49:06 IST" name="sumOfCources" finished-at="2024-06-05T13:49:07 IST" duration-ms="1112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumOfCources -->
+      </class> <!-- org.sarkar.Rest_Assured_Java.SumValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
